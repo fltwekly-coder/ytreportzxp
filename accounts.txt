@@ -1,0 +1,2 @@
+user1@example.com:password1:recovery1@example.com
+user2@example.com:password2:recovery2@example.com

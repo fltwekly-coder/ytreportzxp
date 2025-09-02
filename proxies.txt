@@ -1,0 +1,2 @@
+proxyhost1:8000:proxyuser1:proxypass1
+proxyhost2:8000:proxyuser2:proxypass2
